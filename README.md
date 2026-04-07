@@ -142,13 +142,6 @@ This system can be used to:
 * Provide personalized activity recommendations
 * Support preventive healthcare analytics
 
----
 
-## 👨‍💻 Author
 
-**Dev Patel**
-Master’s Student – Data Analytics Engineering
 
----
-
-⭐ If you found this project useful, consider giving it a star!
